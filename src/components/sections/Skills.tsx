@@ -7,7 +7,7 @@ export function Skills() {
   return (
     <Section id="skills" className="!py-20">
       <SectionHeading
-        eyebrow="02 / Skills"
+        eyebrow="Skills"
         title="Tools I build with"
         subtitle="The stack I reach for across backend, data, and infrastructure work."
       />

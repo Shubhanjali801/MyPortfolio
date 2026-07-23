@@ -6,7 +6,7 @@ import { site } from "@/content/site";
 export function About() {
   return (
     <Section id="about">
-      <SectionHeading eyebrow="01 / About" title="About me" />
+      <SectionHeading eyebrow="About" title="About me" />
       <div className="grid gap-8 md:grid-cols-3">
         <Reveal className="md:col-span-2 space-y-4 text-lg text-muted">
           <p>

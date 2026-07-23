@@ -59,7 +59,7 @@ export function Contact() {
   return (
     <Section id="contact">
       <SectionHeading
-        eyebrow="05 / Contact"
+        eyebrow="Contact"
         title="Let's build something"
         subtitle="Have a role, a project, or just want to say hi? Drop me a message."
       />

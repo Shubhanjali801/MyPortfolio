@@ -6,7 +6,7 @@ import { experience, education } from "@/content/experience";
 export function Experience() {
   return (
     <Section id="experience" className="!py-20">
-      <SectionHeading eyebrow="04 / Experience" title="Where I've worked" />
+      <SectionHeading eyebrow="Experience" title="Where I've worked" />
 
       <div className="space-y-6">
         {experience.map((job, i) => (

@@ -11,7 +11,7 @@ export function Projects() {
   return (
     <Section id="projects">
       <SectionHeading
-        eyebrow="03 / Projects"
+        eyebrow="Projects"
         title="Things I've built"
         subtitle="A few projects that show how I think about systems, storage, and scale. Each has a full case study."
       />
