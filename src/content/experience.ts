@@ -11,11 +11,11 @@ export const experience: ExperienceItem[] = [
   {
     role: "Web Developer",
     org: "Amdox Technologies (Remote)",
-    period: "02 June 2026 – Present", // PLACEHOLDER: exact start date
+    period: "02 June 2026 – Present", 
     points: [
       "Build and maintain web applications as part of a remote engineering team.",
       "Work across the stack — from APIs and data models to front-end features.",
-      "Deployed a CRM/ERP platform to self-hosted Kubernetes against defined NFR targets.",
+      "Deployed the full stack to AWS EC2 on Kubernetes (k3s) with Dockerized services and Traefik ingress.",
     ],
   },
   {
@@ -26,6 +26,16 @@ export const experience: ExperienceItem[] = [
       "Built a set of standalone backend projects using Express and Mongoose.",
       "Followed consistent REST + MongoDB conventions across 12 project briefs.",
       "Covered CRUD services, data modeling, and API design fundamentals.",
+    ],
+  },
+  {
+    role: "Web Developer Intern",
+    org: "The Skybrish (Remote)",
+    period: "20 Feb 2026 – 20 May 2026", 
+    points: [
+      "Built a full-stack ERP web application to manage Products, Customers, Suppliers, Sales/Purchase Orders, GRNs, and Invoices.",
+      "Implemented JWT authentication with role-based access control (Admin, Sales, Purchase, Inventory) and integrated Chart.js dashboards and jsPDF invoice export.",
+      "Developed a full-stack Bookstore platform with React, Node.js, Express, and MongoDB, featuring search/filter/pagination, cart & checkout, and an admin dashboard; designed RESTful APIs secured with JWT & bcrypt."
     ],
   },
 ];

@@ -5,11 +5,11 @@ export type SkillGroup = { category: string; items: string[] };
 export const skills: SkillGroup[] = [
   {
     category: "Languages",
-    items: ["TypeScript", "JavaScript", "SQL", "Python"],
+    items: ["TypeScript", "JavaScript", "SQL", "Python","C++", "Java"],
   },
   {
     category: "Backend",
-    items: ["Node.js", "Express", "REST APIs", "Prisma", "Mongoose"],
+    items: ["Node.js", "Express", "REST APIs", "Prisma", "Mongoose","NestJS"],
   },
   {
     category: "Frontend",
