@@ -13,8 +13,8 @@ export const site = {
   location: "Indira Nagar, Lucknow, Uttar Pradesh, India",
   email: "shubhanjali32@gmail.com",
   resumeUrl:
-    "https://drive.google.com/file/d/1z14KfNbFUzLctoPmQqV_M89-2YUQoC49/view?usp=drive_link",
-  url: "https://your-portfolio.vercel.app", // PLACEHOLDER: set after deploy
+    "https://drive.google.com/file/d/1mmTPvOuvXCrBDfremp6wQ37CRB8olWbt/view?usp=drive_link",
+  url: "https://myportfolio-production-43a6.up.railway.app/", 
 
   socials: {
     github: "https://github.com/Shubhanjali801",

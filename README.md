@@ -3,7 +3,7 @@
 Personal developer portfolio: a project-focused site showcasing what I build,
 how I build it, the architecture behind each project, and working demos.
 
-**Live:** _add your Vercel URL after deploying_
+ [Live URL](https://myportfolio-production-43a6.up.railway.app/)
 
 ## Tech Stack
 
